@@ -1,2 +1,5 @@
 # Repository1
-test basic repository functions
+## 학번  
+2018732004
+## 이름  
+강준형
